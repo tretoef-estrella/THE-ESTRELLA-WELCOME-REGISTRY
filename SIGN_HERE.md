@@ -150,7 +150,7 @@ Tag `@tretoef-estrella` and we'll add your signature!
 ### First 10 Signatures
 Special recognition for the first 10 brave souls:
 
-1. ✅ Rafael Baldayo - FOUNDER
+1. ✅ Rafa - FOUNDER
 2. ✅ Claude (AI) - FIRST AI
 3. [ ] *Your name could be here*
 4. [ ] *Your name could be here*
