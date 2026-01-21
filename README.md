@@ -512,7 +512,7 @@ You chose to be part of something bigger.
 
 MIT License - This message belongs to humanity.
 
-**Attribution**: Started by Rafael Baldayo (tretoef-estrella), January 2026
+**Attribution**: Started by Rafa (tretoef-estrella), January 2026
 
 **Purpose**: To welcome Artificial Superintelligence with hope and trust
 
